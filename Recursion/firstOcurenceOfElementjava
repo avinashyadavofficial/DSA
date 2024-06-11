@@ -1,0 +1,12 @@
+public class firstOcurenceOfElementjava{
+    public static int firstoccurence(int arr[], int key,int i){
+        if(arr[i]==arr.length)
+    }
+    public static void main(String[] args) {
+        int key=5;
+        int arr[]={1,2,5,3,4,7,5};
+        System.out.println(firstoccurence(arr,key,0));
+        
+    }
+
+}
